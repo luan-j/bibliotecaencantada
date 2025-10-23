@@ -39,6 +39,21 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
         />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:wght@400&display=swap" />
+        <script
+          src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+          data-utmify-prevent-xcod-sck
+          data-utmify-prevent-subids
+          async
+          defer
+        ></script>
+        <script>
+          window.pixelId = "68fa8c835daa79c1a212ff41";
+          var a = document.createElement("script");
+          a.setAttribute("async", "");
+          a.setAttribute("defer", "");
+          a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
+          document.head.appendChild(a);
+        </script>
       </head>
       <body className="font-sans antialiased">{children}</body>
     </html>
