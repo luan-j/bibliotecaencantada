@@ -102,7 +102,7 @@ const PricingSection = forwardRef<HTMLDivElement>((_, ref) => {
 
                 {/* CTA Button */}
                 <a
-                  href="https://chk.eduzz.com/89AO4XNE0D?utm_source=facebook&utm_medium=cpc&utm_content=biblioteca%20encantada%20&utm_campaign=audios"
+                  href="https://pay.cakto.com.br/3cp75mh_619431"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="self-stretch px-6 py-3 relative bg-[#FBFAF9] shadow-[0px_2px_4px_rgba(55,50,47,0.12)] overflow-hidden rounded-full flex justify-center items-center hover:bg-[#F0EFEE] transition-colors"

@@ -35,7 +35,7 @@ export default function CTASection() {
           <div className="w-full max-w-[497px] flex flex-col justify-center items-center gap-12">
             <div className="flex justify-start items-center gap-4">
               <a
-                href="https://chk.eduzz.com/89AO4XNE0D?utm_source=facebook&utm_medium=cpc&utm_content=biblioteca%20encantada%20&utm_campaign=audios"
+                href="https://pay.cakto.com.br/3cp75mh_619431"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-10 px-12 py-[6px] relative bg-[#37322F] shadow-[0px_0px_0px_2.5px_rgba(255,255,255,0.08)_inset] overflow-hidden rounded-full flex justify-center items-center cursor-pointer hover:bg-[#2A2520] transition-colors"

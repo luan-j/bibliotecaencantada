@@ -24,7 +24,7 @@ export function HeroSection() {
               asChild
               className="h-10 px-12 bg-[#37322f] hover:bg-[#37322f]/90 text-white rounded-full font-medium text-sm shadow-[0px_0px_0px_2.5px_rgba(255,255,255,0.08)_inset]"
             >
-              <a href="https://sun.eduzz.com/3230068" target="_blank" rel="noopener noreferrer">
+              <a href="https://pay.cakto.com.br/3cp75mh_619431" target="_blank" rel="noopener noreferrer">
                 QUERO IR PARA O PRÓXIMO NÍVEL
               </a>
             </Button>
